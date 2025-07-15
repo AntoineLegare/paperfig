@@ -4,9 +4,7 @@ Simplified Matplotlib code for scientific figure production.
 
 # Example use cases
 
-#### Example 1
-
-#### Example 2
+See the `Demo.ipynb` notebook.
 
 # Author
 
