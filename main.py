@@ -98,7 +98,7 @@ Figure class
 """
 
 
-class Figure:
+class PaperFigure:
 
     def __init__(self, figsize=(7, 7), dpi=600):
         """
